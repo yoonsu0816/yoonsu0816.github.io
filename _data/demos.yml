@@ -1,0 +1,24 @@
+main:
+
+  - title: "RECIPE: How to Integrate ChatGPT into EFL Writing Education"
+    authors: Jieun Han, Haneul Yoo, <strong>Yoonsu Kim</strong>, Junho Myung, Minsun Kim, Hyunseung Lim, Juho Kim, Tak Yeon Lee, Hwajung Hong, So-Yeon Ahn, Alice Oh
+    conference_short: L@S
+    conference: Proceedings of the Tenth ACM Conference on Learning @ Scale <strong>(L@S 2023, WiP)</strong>
+    pdf: https://dl.acm.org/doi/abs/10.1145/3573051.3596200
+    code:
+    image: assets/img/RECIPE.png
+  
+  - title: "Towards Understanding the Challenges and Remedies in AI Application Development"
+    authors: Dae Hyun Kim*, <strong>Yoonsu Kim*</strong>, Hyungyu Shin, Jinho Son, Juho Kim (*Corresponding authors)
+    conference_short: KCC
+    conference: Korea Computer Congress 2023 <strong>(KCC 2023)</strong>
+    pdf: assets/files/prj-smart-ai-planner_KCC.pdf
+    image: assets/img/KCC-teaser.png
+
+  - title: "Demonstrating AHA: Boosting Unmodified AI's Robustness by Proactively Inducing Favorable Human Sensing Conditions"
+    authors: Sungjae Cho, Jaewoong Jang, <strong>Yoonsu Kim</strong>, Inseok Hwang
+    conference_short: UbiComp/ISWC
+    conference: Adjunct Proceedings of the 2023 ACM International Joint Conference on Pervasive and Ubiquitous Computing & the 2023 ACM International Symposium on Wearable Computing <strong>(UbiComp/ISWC '23 Adjunct)</strong>
+    pdf: https://dl.acm.org/doi/10.1145/3594739.3610718
+    code:
+    image: assets/img/AHA-demo.png
