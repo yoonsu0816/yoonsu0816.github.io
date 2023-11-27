@@ -62,17 +62,12 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .publications ol.bibliography li .links a.btn { color: #002D72; border: 1px solid #002D72; padding-left: 0.5rem; padding-right: 0.5rem; padding-top: 0.1rem; padding-bottom: 0.1rem; margin-left: 0.1rem; margin-right: 0.1rem;}
 
-.publications ol.bibliography li .links a.btn:hover { transform: translateY(-2px); border-bottom-style: solid; }
-
-.publications ol.bibliography li .links a[role="button"]:hover { transform: translateY(-2px); border-bottom-style: solid; }
+.publications ol.bibliography li .links a.btn:hover { color: #069; border: 1px solid #069; border-bottom-style: solid; font-weight: 600; }
 
 @media (prefers-color-scheme: dark) {
 .publications ol.bibliography li .links a.btn { color: #FFFFFF; border: 1px solid #FFFFFF; padding-left: 0.5rem; padding-right: 0.5rem; padding-top: 0.1rem; padding-bottom: 0.1rem; }
-/* .publications ol.bibliography li .links a[role="button"]:hover { transform: translateY(-2px); border-bottom-style: solid; } */
-.publications ol.bibliography li .links a.btn:hover { transform: translateY(-2px); border-bottom-style: solid; }
-  }
-
-/* .publications ol.bibliography li .links a.btn:hover { transform: translateY(-2px); border-bottom-style: solid; } */
+.publications ol.bibliography li .links a.btn:hover { color: #fff; border: 1px solid #fff; background-color: #069; border-bottom-style: solid; font-weight: 600; }
+}
 
 .publications ol.bibliography li .hidden { font-size: 0.875rem; max-height: 0px; overflow: hidden; text-align: justify; -webkit-transition: 0.15s ease; -moz-transition: 0.15s ease; -ms-transition: 0.15s ease; -o-transition: 0.15s ease; transition: all 0.15s ease; }
 
