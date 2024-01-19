@@ -1,20 +1,22 @@
 main:
 
-  - title: "Understanding Users’ Dissatisfaction with ChatGPT Responses: Types, Resolving Tactics, and the Effect of Knowledge Level"
-    authors: <strong>Yoonsu Kim</strong>, Jueon Lee, Seoyoung Kim, Jaehyuk Park, Juho Kim
-    conference_short: 
-    conference: 
-    pdf: https://arxiv.org/abs/2311.07434
-    code: 
-    page: https://chatgpt-analysis.kixlab.org/
-    # notes: Oral Presentation
-    image: assets/img/prj-chatgpt-teaser.png
+  # - title: "Understanding Users’ Dissatisfaction with ChatGPT Responses: Types, Resolving Tactics, and the Effect of Knowledge Level"
+  #   authors: <strong>Yoonsu Kim</strong>, Jueon Lee, Seoyoung Kim, Jaehyuk Park, Juho Kim
+  #   conference_short: 
+  #   conference: 
+  #   pdf: https://arxiv.org/pdf/2311.07434.pdf
+  #   arxiv: https://arxiv.org/abs/2311.07434
+  #   code: 
+  #   page: https://chatgpt-analysis.kixlab.org/
+  #   # notes: Oral Presentation
+  #   image: assets/img/prj-chatgpt-teaser.png
 
 
   - title: "FABRIC: Automated Scoring and Feedback Generation for Essays"
     authors: Jieun Han, Haneul Yoo, Junho Myung, Minsun Kim, Hyunseung Lim, <strong>Yoonsu Kim</strong>, Tak Yeon Lee, Hwajung Hong, Juho Kim, So-Yeon Ahn, Alice Oh
     conference_short: 
     # conference: arXiv 
-    pdf: https://arxiv.org/abs/2310.05191
+    pdf: https://arxiv.org/pdf/2310.05191.pdf
+    arxiv: https://arxiv.org/abs/2310.05191
     code:
     image: assets/img/FABRIC-teaser.png

@@ -4,9 +4,11 @@ layout: homepage
 
 ## About Me
 
-Hello👋  I am a Master's student of [Kim Jaechul Graduate School of AI](https://gsai.kaist.ac.kr/) at KAIST (“KAIST AI” for short). I am working with [Prof. Juho Kim](https://juhokim.com/) at [KIXLAB(KAIST Interaction Lab)](https://www.kixlab.org/). 
+Hello👋  I am an incoming Ph.D. student of [School of Computing](http://cs.kaist.ac.kr/) at [KAIST](https://www.kaist.ac.kr/en/).
+I am working with [Prof. Juho Kim](https://juhokim.com/) at [KIXLAB(KAIST Interaction Lab)](https://www.kixlab.org/). 
 
-My research interests include around Human-Computer Interaction, Human-Centered AI, and Human-AI collaboration. I am passionate about developing new interactions and systems that help people better utilize AI technology, understand the difficulties in using it or trying to use it.
+My research interests include around Human-Computer Interaction, Human-Centered AI, and Human-AI collaboration. 
+I am passionate about developing new interactions and systems that help people better utilize AI technology, understand the difficulties in using it or trying to use it.
 
 ---
 

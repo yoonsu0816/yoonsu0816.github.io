@@ -25,6 +25,12 @@
       {% if link.pdf %} 
       <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       {% endif %}
+      {% if link.acmdl %} 
+      <a href="{{ link.acmdl }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">ACM DL</a>
+      {% endif %}
+      {% if link.arxiv %} 
+      <a href="{{ link.arxiv }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+      {% endif %}
       {% if link.code %} 
       <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       {% endif %}
@@ -38,10 +44,10 @@
       <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
       {% endif %}
       {% if link.notes %} 
-      <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
+      <strong> <i style="color:#f98510">{{ link.notes }}</i></strong>
       {% endif %}
-      {% if link.others %} 
-      {{ link.others }}
+      {% if link.toappear %} 
+      <i style ="font-weight: lighter">{{ link.toappear }}</i>
       {% endif %}
     </div>
   </div>
