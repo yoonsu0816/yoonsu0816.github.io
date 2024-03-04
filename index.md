@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hello👋!  My name is Yoonsu Kim, and I am an incoming Ph.D. student of [School of Computing](http://cs.kaist.ac.kr/) at [KAIST](https://www.kaist.ac.kr/en/).  
+Hello👋!  My name is Yoonsu Kim, and I am a Ph.D. student of [School of Computing](http://cs.kaist.ac.kr/) at [KAIST](https://www.kaist.ac.kr/en/).  
 I am working with [Prof. Juho Kim](https://juhokim.com/) at [KIXLAB (KAIST Interaction Lab)](https://www.kixlab.org/), and I recently graduated from [KAIST AI](https://gsai.kaist.ac.kr/) with a Master's Degree.
 
 My **research interests** include around **Human-Computer Interaction, Human-Centered AI, and Human-AI collaboration**.  
