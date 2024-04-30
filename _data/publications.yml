@@ -4,11 +4,12 @@ main:
     authors: <strong>Yoonsu Kim</strong>, Jueon Lee, Seoyoung Kim, Jaehyuk Park, Juho Kim
     conference_short: IUI
     conference: ACM Conference on Intelligent User Interfaces <strong>(IUI 2024)</strong>.
+    acmdl: https://dl.acm.org/doi/abs/10.1145/3640543.3645148
     pdf: https://arxiv.org/pdf/2311.07434.pdf
     arxiv: https://arxiv.org/abs/2311.07434
     code: 
     page: https://chatgpt-analysis.kixlab.org/
-    toappear: (to appear)
+    toappear: 
     image: assets/img/prj-chatgpt-teaser.png
     # notes: Oral Presentation
 
