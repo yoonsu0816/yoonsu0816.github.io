@@ -27,6 +27,9 @@
       {% if link.acmdl %} 
       <a href="{{ link.acmdl }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">ACM DL</a>
       {% endif %}
+      {% if link.arxiv %} 
+      <a href="{{ link.arxiv }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+      {% endif %}
       {% if link.code %} 
       <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       {% endif %}

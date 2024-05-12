@@ -1,5 +1,15 @@
 main:
 
+  - title: "Beyond Prompts: Learning from Human Communication for Enhanced AI Intent Alignment"
+    authors: <strong>Yoonsu Kim</strong>, Kihoon Son, Seoyoung Kim, Juho Kim
+    conference_short: CHI
+    conference: Proceedings of CHI Conference on Human Factors in Computing Systems <strong>(CHI 2024 Getting Back Together Workshop)</strong>
+    acmdl: 
+    arxiv: https://arxiv.org/abs/2405.05678
+    pdf: assets/files/chi2024-workshop-intent-llm-paper.pdf
+    code:
+    image: assets/img/intent-llm-teaser.png
+
   - title: "RECIPE: How to Integrate ChatGPT into EFL Writing Education"
     authors: Jieun Han, Haneul Yoo, <strong>Yoonsu Kim</strong>, Junho Myung, Minsun Kim, Hyunseung Lim, Juho Kim, Tak Yeon Lee, Hwajung Hong, So-Yeon Ahn, Alice Oh
     conference_short: L@S
