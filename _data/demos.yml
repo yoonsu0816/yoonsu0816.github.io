@@ -1,5 +1,14 @@
 main:
 
+  - title: "Using Large Language Models to Diagnose Math Problem-Solving Skills at Scale"
+    authors: Hyoungwook Jin*, <Strong>Yoonsu Kim*</strong>, Yeon Su Park, Bekzat Tilekbay, Jinho Son, Juho Kim (* Corresponding authors)
+    conference_short: L@S
+    conference: Proceedings of the Tenth ACM Conference on Learning @ Scale <strong>(L@S 2024, WiP)</strong>
+    arxiv: 
+    pdf: assets/files/l@s2024-wip.pdf
+    code:
+    image: assets/img/l@s2024-wip-teaser.png
+
   - title: "Beyond Prompts: Learning from Human Communication for Enhanced AI Intent Alignment"
     authors: <strong>Yoonsu Kim</strong>, Kihoon Son, Seoyoung Kim, Juho Kim
     conference_short: CHI
