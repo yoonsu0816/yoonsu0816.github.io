@@ -5,6 +5,7 @@ main:
     conference_short: L@S
     conference: Proceedings of the Tenth ACM Conference on Learning @ Scale <strong>(L@S 2024, WiP)</strong>
     arxiv: 
+    acmdl: https://doi.org/10.1145/3657604.3664697
     pdf: assets/files/l@s2024-wip.pdf
     code:
     image: assets/img/l@s2024-wip-teaser.png
