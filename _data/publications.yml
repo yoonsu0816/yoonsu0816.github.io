@@ -3,7 +3,7 @@ main:
   - title: "Understanding Users’ Dissatisfaction with ChatGPT Responses: Types, Resolving Tactics, and the Effect of Knowledge Level"
     authors: <strong>Yoonsu Kim</strong>, Jueon Lee, Seoyoung Kim, Jaehyuk Park, Juho Kim
     conference_short: IUI
-    conference: ACM Conference on Intelligent User Interfaces <strong>(IUI 2024)</strong>.
+    conference: <strong>IUI 2024</strong>
     acmdl: https://dl.acm.org/doi/abs/10.1145/3640543.3645148
     pdf: https://arxiv.org/pdf/2311.07434.pdf
     arxiv: https://arxiv.org/abs/2311.07434
@@ -17,7 +17,7 @@ main:
     authors: Sungjae Cho, <strong>Yoonsu Kim</strong>, Jaewoong Jang, Inseok Hwang
     # <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
     conference_short: IMWUT
-    conference: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies <strong>(IMWUT 2023)</strong>.
+    conference: <strong>IMWUT 2023</strong>
     acmdl: https://dl.acm.org/doi/10.1145/3580812
     pdf: https://dl.acm.org/doi/pdf/10.1145/3580812
     video: https://www.youtube.com/watch?v=yUSUkovPLjg&feature=youtu.be

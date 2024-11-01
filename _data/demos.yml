@@ -1,9 +1,29 @@
 main:
 
+  - title: "LLM-as-a-tutor in EFL Writing Education: Focusing on Evaluation of Student-LLM Interaction"
+    authors: Jieun Han, Haneul Yoo, Junho Myung, Minsun Kim, Hyunseung Lim, <strong>Yoonsu Kim</strong>, Tak Yeon Lee, Hwajung Hong, Juho Kim, So-Yeon Ahn, Alice Oh
+    conference_short: EMNLP
+    conference: <strong>EMNLP 2024 Workshop on CustomNLP4U</strong>
+    arxiv: https://arxiv.org/abs/2310.05191
+    acmdl: 
+    pdf: 
+    code:
+    image: assets/img/llm-as-a-tutor-teaser.png
+
+  - title: "LLM-Driven Learning Analytics Dashboard for Teachers in EFL Writing Education"
+    authors: Jieun Han, Haneul Yoo, Junho Myung, Minsun Kim, Hyunseung Lim, <strong>Yoonsu Kim</strong>, Tak Yeon Lee, Hwajung Hong, Juho Kim, So-Yeon Ahn, Alice Oh
+    conference_short: EMNLP
+    conference: <strong>EMNLP 2024 Workshop on CustomNLP4U</strong>
+    arxiv: https://arxiv.org/abs/2410.15025
+    acmdl: 
+    pdf: 
+    code:
+    image: assets/img/emnlp-dashboard-teaser.png
+
   - title: "Using Large Language Models to Diagnose Math Problem-Solving Skills at Scale"
     authors: Hyoungwook Jin*, <Strong>Yoonsu Kim*</strong>, Yeon Su Park, Bekzat Tilekbay, Jinho Son, Juho Kim (* Corresponding authors)
     conference_short: L@S
-    conference: Proceedings of the Tenth ACM Conference on Learning @ Scale <strong>(L@S 2024, WiP)</strong>
+    conference: <strong>L@S 2024 WiP</strong>
     arxiv: 
     acmdl: https://doi.org/10.1145/3657604.3664697
     pdf: assets/files/l@s2024-wip.pdf
@@ -13,7 +33,7 @@ main:
   - title: "Beyond Prompts: Learning from Human Communication for Enhanced AI Intent Alignment"
     authors: <strong>Yoonsu Kim</strong>, Kihoon Son, Seoyoung Kim, Juho Kim
     conference_short: CHI
-    conference: Proceedings of CHI Conference on Human Factors in Computing Systems <strong>(CHI 2024 Getting Back Together Workshop)</strong>
+    conference: "<strong>CHI 2024 Workshop on Getting Back Together: HCI and Human Factors Joining Forces to Meet the AI Interaction Challenge</strong>"
     acmdl: 
     arxiv: https://arxiv.org/abs/2405.05678
     pdf: assets/files/chi2024-workshop-intent-llm-paper.pdf
@@ -23,7 +43,7 @@ main:
   - title: "RECIPE: How to Integrate ChatGPT into EFL Writing Education"
     authors: Jieun Han, Haneul Yoo, <strong>Yoonsu Kim</strong>, Junho Myung, Minsun Kim, Hyunseung Lim, Juho Kim, Tak Yeon Lee, Hwajung Hong, So-Yeon Ahn, Alice Oh
     conference_short: L@S
-    conference: Proceedings of the Tenth ACM Conference on Learning @ Scale <strong>(L@S 2023, WiP)</strong>
+    conference: <strong>L@S 2023 WiP</strong>
     acmdl: https://dl.acm.org/doi/abs/10.1145/3573051.3596200
     pdf: https://dl.acm.org/doi/pdf/10.1145/3573051.3596200
     code:
@@ -32,14 +52,14 @@ main:
   - title: "Towards Understanding the Challenges and Remedies in AI Application Development"
     authors: Dae Hyun Kim*, <strong>Yoonsu Kim*</strong>, Hyungyu Shin, Jinho Son, Juho Kim (* Corresponding authors)
     conference_short: KCC
-    conference: Korea Computer Congress 2023 <strong>(KCC 2023)</strong>
+    conference: <strong>KCC 2023</strong>
     pdf: assets/files/prj-smart-ai-planner_KCC.pdf
     image: assets/img/KCC-teaser.png
 
   - title: "Demonstrating AHA: Boosting Unmodified AI's Robustness by Proactively Inducing Favorable Human Sensing Conditions"
     authors: Sungjae Cho, Jaewoong Jang, <strong>Yoonsu Kim</strong>, Inseok Hwang
     conference_short: UbiComp/ISWC
-    conference: Adjunct Proceedings of the 2023 ACM International Joint Conference on Pervasive and Ubiquitous Computing & the 2023 ACM International Symposium on Wearable Computing <strong>(UbiComp/ISWC '23 Adjunct)</strong>
+    conference: <strong>UbiComp/ISWC '23 Adjunct</strong>
     acmdl: https://dl.acm.org/doi/10.1145/3594739.3610718
     pdf: https://dl.acm.org/doi/pdf/10.1145/3594739.3610718
     code:
