@@ -1,5 +1,15 @@
 main:
 
+  - title: "Applying the Gricean Maxims to a Human-LLM Interaction Cycle: Design Insights from a Participatory Approach"
+    authors: <strong>Yoonsu Kim</strong>, Brandon Chin, Kihoon Son, Seoyoung Kim, Juho Kim
+    conference_short: CHI
+    conference: <strong>CHI 25 LBW</strong>
+    arxiv: https://arxiv.org/abs/2503.00858
+    acmdl: 
+    pdf: 
+    code:
+    image: assets/img/chi25-lbw-teaser.png
+
   - title: "LLM-as-a-tutor in EFL Writing Education: Focusing on Evaluation of Student-LLM Interaction"
     authors: Jieun Han, Haneul Yoo, Junho Myung, Minsun Kim, Hyunseung Lim, <strong>Yoonsu Kim</strong>, Tak Yeon Lee, Hwajung Hong, Juho Kim, So-Yeon Ahn, Alice Oh
     conference_short: EMNLP
