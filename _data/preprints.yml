@@ -1,18 +1,19 @@
 main:
 
-  # - title: "Understanding Users’ Dissatisfaction with ChatGPT Responses: Types, Resolving Tactics, and the Effect of Knowledge Level"
-  #   authors: <strong>Yoonsu Kim</strong>, Jueon Lee, Seoyoung Kim, Jaehyuk Park, Juho Kim
-  #   conference_short: 
-  #   conference: 
-  #   pdf: https://arxiv.org/pdf/2311.07434.pdf
-  #   arxiv: https://arxiv.org/abs/2311.07434
-  #   code: 
-  #   page: https://chatgpt-analysis.kixlab.org/
-  #   # notes: Oral Presentation
-  #   image: assets/img/prj-chatgpt-teaser.png
+  - title: "IntentFlow: Supporting Interactive and Fluid Intent Communication with Large Language Models"
+    authors: <strong>Yoonsu Kim</strong>, Brandon Chin, Kihoon Son, Seoyoung Kim, Juho Kim
+    conference_short: 
+    conference: Under Review
+    pdf: https://arxiv.org/pdf/2507.22134.pdf
+    arxiv: https://arxiv.org/abs/2507.22134
+    video: https://youtu.be/nUnbghA9P2Y
+    code:
+    page: 
+    # notes: Oral Presentation
+    image: assets/img/intentflow-teaser.png
 
 
-  - title: "FABRIC: Automated Scoring and Feedback Generation for Essays"
+  - title: "LLM-as-a-tutor in EFL Writing Education: Focusing on Evaluation of Student-LLM Interaction"
     authors: Jieun Han, Haneul Yoo, Junho Myung, Minsun Kim, Hyunseung Lim, <strong>Yoonsu Kim</strong>, Tak Yeon Lee, Hwajung Hong, Juho Kim, So-Yeon Ahn, Alice Oh
     conference_short: 
     # conference: arXiv 
