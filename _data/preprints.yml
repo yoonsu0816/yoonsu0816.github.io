@@ -12,6 +12,17 @@ main:
     # notes: Oral Presentation
     image: assets/img/intentflow-teaser.png
 
+  - title: "Investigating Large Language Models in Diagnosing Students' Cognitive Skills in Math Problem-solving"
+    authors: Hyoungwook Jin, <strong>Yoonsu Kim</strong>, Dongyun Jung, Seungju Kim, Kiyoon Choi, Jinho Son, Juho Kim
+    conference_short: 
+    conference: Under Review
+    pdf: https://arxiv.org/pdf/2504.00843.pdf
+    arxiv: https://arxiv.org/abs/2504.00843
+    code:
+    page: 
+    image: assets/img/mathcog-teaser.png
+    # notes: Oral Presentation
+
 
   - title: "LLM-as-a-tutor in EFL Writing Education: Focusing on Evaluation of Student-LLM Interaction"
     authors: Jieun Han, Haneul Yoo, Junho Myung, Minsun Kim, Hyunseung Lim, <strong>Yoonsu Kim</strong>, Tak Yeon Lee, Hwajung Hong, Juho Kim, So-Yeon Ahn, Alice Oh
