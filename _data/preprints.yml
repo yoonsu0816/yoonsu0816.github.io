@@ -1,5 +1,17 @@
 main:
 
+  - title: "Contexty: Capturing and Organizing In-situ Thoughts for Context-Aware AI Support"
+    authors: <strong>Yoonsu Kim</strong>, Chanbin Park, Kihoon Son, Saelyne Yang, Juho Kim
+    conference_short: 
+    conference: Under Review
+    pdf: 
+    arxiv: 
+    video: 
+    code:
+    page: 
+    # notes: Oral Presentation
+    image: assets/img/contexty-teaser.png
+
   - title: "NEMO: Towards Benchmarking Natural-language Explanations for MOdel Errors"
     authors: Hyeon-Woo Nam, <strong>Yoonsu Kim</strong>, Kihoon Son, Juho Kim, Tae-Hyun Oh
     conference_short: 
@@ -10,22 +22,10 @@ main:
     code:
     page: 
     # notes: Oral Presentation
-    image: assets/img/nemo_teaser.png
+    image: assets/img/nemo-teaser.png
 
-  - title: "IntentFlow: Investigating Fluid Dynamics of Intent Communication in Generative AI"
-    authors: <strong>Yoonsu Kim</strong>, Brandon Chin, Kihoon Son, Seoyoung Kim, Juho Kim
-    conference_short: 
-    conference: Under Review
-    pdf: https://arxiv.org/pdf/2507.22134.pdf
-    arxiv: https://arxiv.org/abs/2507.22134
-    video: https://youtu.be/nUnbghA9P2Y
-    code:
-    page: 
-    # notes: Oral Presentation
-    image: assets/img/intentflow-teaser.png
-
-  - title: "Investigating Large Language Models in Diagnosing Students' Cognitive Skills in Math Problem-solving"
-    authors: Hyoungwook Jin, <strong>Yoonsu Kim</strong>, Dongyun Jung, Seungju Kim, Kiyoon Choi, Jinho Son, Juho Kim
+  - title: "Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work"
+    authors: <strong>Yoonsu Kim</strong>, Hyoungwook Jin, Hayeon Doh, Eunhye Kim, Dongyun Jung, Seungju Kim, Kiyoon Choi, Jinho Son, Juho Kim
     conference_short: 
     conference: Under Review
     pdf: https://arxiv.org/pdf/2504.00843.pdf

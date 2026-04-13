@@ -1,5 +1,17 @@
 main:
 
+  - title: "IntentFlow: Investigating Fluid Dynamics of Intent Communication in Generative AI"
+    authors: <strong>Yoonsu Kim</strong>, Kihoon Son, Seoyoung Kim, Brandon Chin, Juho Kim
+    conference_short: DIS
+    conference: Appear to DIS 2026
+    pdf: https://arxiv.org/pdf/2507.22134.pdf
+    arxiv: https://arxiv.org/abs/2507.22134
+    video: https://youtu.be/nUnbghA9P2Y
+    code:
+    page: 
+    # notes: Oral Presentation
+    image: assets/img/intentflow-teaser.png
+  
   - title: "Understanding Users’ Dissatisfaction with ChatGPT Responses: Types, Resolving Tactics, and the Effect of Knowledge Level"
     authors: <strong>Yoonsu Kim</strong>, Jueon Lee, Seoyoung Kim, Jaehyuk Park, Juho Kim
     conference_short: IUI
